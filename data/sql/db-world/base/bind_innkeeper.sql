@@ -1,0 +1,1 @@
+UPDATE creature_template  SET ScriptName = 'TavernTravelCreatureScript' WHERE subname LIKE '%Innkeeper';
